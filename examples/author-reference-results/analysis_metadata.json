@@ -1,0 +1,38 @@
+{
+  "script": "NDJSONAnalysis_PVDT_v1_3_0.py",
+  "script_version": "1.3.0",
+  "created_at": "2026-10-23T10:05:55",
+  "input_root": "D:\\Python\\ReferenceDatas",
+  "n_participants": 1,
+  "n_trials": 4,
+  "parameters": {
+    "warmup_seconds": 3.0,
+    "coordination_window_frames": 180,
+    "coordination_step_frames": 30,
+    "activity_window_frames": 60,
+    "activity_step_frames": 10,
+    "max_lag_frames": 60,
+    "sync_lag_frames": 5,
+    "min_window_samples": 60,
+    "min_peak_correlation": 0.0,
+    "min_total_rms_speed": 1e-06,
+    "min_state_run_windows": 2,
+    "reference_sampling_rate_hz": 60.0,
+    "units_per_meter": 100.0,
+    "plot_limit_meters": 4.0,
+    "camera_elevation": 25.0,
+    "camera_azimuth": -60.0,
+    "attachment_proximity_units": 40.0,
+    "attachment_movement_epsilon_units": 1e-06,
+    "attachment_cosine_threshold": 0.7,
+    "attachment_speed_ratio_min": 0.5,
+    "attachment_speed_ratio_max": 2.0,
+    "attachment_gap_fill_frames": 3,
+    "attachment_minimum_segment_frames": 3,
+    "timestamp_tolerance_seconds": 1e-09
+  },
+  "sign_conventions": {
+    "lag": "positive = left leads; negative = right leads",
+    "relative_activity": "negative = left moves more; positive = right moves more"
+  }
+}

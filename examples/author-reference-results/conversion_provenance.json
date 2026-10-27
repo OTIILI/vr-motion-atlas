@@ -1,0 +1,42 @@
+[
+  {
+    "id": "R1-R1",
+    "source": "R1/47A55D8948775299D41E00A53B378621.ndjson",
+    "sha256": "221e3f983a093b81904868a92d3bbb604d2e90fd7c2b7d66ff7fe07214796b0a",
+    "rawFrames": 1979,
+    "timedFrames": 1313,
+    "validDisplayFrames": 219,
+    "displayFrames": 219,
+    "rawFinalGoalCount": 8
+  },
+  {
+    "id": "R1-R2",
+    "source": "R1/1451A1604B11D5B3718201B01EB8B6B8.ndjson",
+    "sha256": "40e0fa1b40df12e00870cf1784c1e5427e4685d9172999c58c7b7772726d8e51",
+    "rawFrames": 3810,
+    "timedFrames": 2006,
+    "validDisplayFrames": 335,
+    "displayFrames": 335,
+    "rawFinalGoalCount": 8
+  },
+  {
+    "id": "R1-R3",
+    "source": "R1/4D47D0A84396F6625446B5956533E460.ndjson",
+    "sha256": "dc4fe25ad1ab81a3d8d5aa13042275a70d92420b13418fddc05f9927bb9f5f6f",
+    "rawFrames": 2529,
+    "timedFrames": 1939,
+    "validDisplayFrames": 324,
+    "displayFrames": 324,
+    "rawFinalGoalCount": 8
+  },
+  {
+    "id": "R1-R4",
+    "source": "R1/05E86BE948C00FDBEC685C8F79991A1E.ndjson",
+    "sha256": "b0a8cdba4cac50c674e457291e0be1744ad0684169667e60db1ae6402f40ee8c",
+    "rawFrames": 3393,
+    "timedFrames": 2600,
+    "validDisplayFrames": 434,
+    "displayFrames": 434,
+    "rawFinalGoalCount": 8
+  }
+]

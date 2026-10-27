@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+private-analysis/
+private-data/
+.openai/
+.DS_Store
+Thumbs.db
