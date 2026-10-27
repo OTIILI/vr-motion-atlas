@@ -40,6 +40,14 @@ With Node installed, run `node tools/check-public.mjs`. The four reference conve
 
 This is an exploratory visualisation tool. Display sampling is not a replacement for raw-resolution coordination analysis. Event attribution and target forecasts are provisional. Forecasts rank candidates, not probabilities or confirmed intentions. Questionnaire ratings describe overall experience, not individual conditions.
 
-## Rights
+## Licence
 
-Three.js retains its MIT licence in `dist/vendor/THREE-LICENSE.txt`. No licence has yet been selected for the original project code or author data; publication does not itself grant an open-source licence. Select those terms before inviting reuse.
+Original viewer and analysis code is licensed under the MIT License;
+see LICENSE.
+
+Author reference recordings and figures in `dist/data/` and
+`examples/author-reference-results/` are licensed under CC BY 4.0;
+see DATA_LICENSE.md. These materials are excluded from the MIT licence.
+
+Third-party components retain their respective licences.
+The Three.js licence is provided in `dist/vendor/THREE-LICENSE.txt`.
